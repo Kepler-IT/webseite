@@ -1,0 +1,57 @@
+
+.header{
+display: flex;
+height:150px;
+background-color:green;
+width:100%;
+margin-top: 10px;
+font: helvetica;
+justify-content: flex-start;
+}
+.headline{
+    text-align: center;
+    font-size: 250%;
+    margin-bottom: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.Logo{
+    width: 150px;
+    height: 150px;
+}
+
+.Logo img{
+    width: 100%;
+    max-height: auto;
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+    width: 100px;
+    height: 25%;
+    margin-top: 9%;   
+}
+.menu{
+    height: 50px;
+    width: 50px;
+}
+.Button{
+    background-color: blue;
+    font-color: white;
+    padding: 5px;
+}
+.Link{
+    font-color: #555;
+    
+    
+}
+.Footer{
+background-color: midnightblue;
+font-color: light-grey;
+    
+}
+.Footer a{
+    font-color: white;
+}
