@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23.01.2019, 14:04:16
+    Author     : obt040702
+*/
+.Logo{
+    margin-top: 10px;
+    max-width: 256px;
+    height: auto;
+}
+.Button{
+    background-color: blue;
+    font-color: white;
+    padding: 5px;
+}
+.Link{
+    font-color: #555;
+    
+    
+}
+.Footer{
+background-color: midnightblue;
+font-color: light-grey;
+    
+}
+.Footer a{
+    font-color: white;
+}
